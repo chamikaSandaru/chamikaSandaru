@@ -1,15 +1,35 @@
-🔭 I’m currently working on SLIATE
+# 👋 Hi, I'm Chamika
 
-🌱 I’m currently learning java Spring boot
+I'm a passionate **Software Developer** with experience in both frontend and backend development. I love turning ideas into reality using modern technologies.
 
-👨‍💻 All of my projects are available at https://github.com/chamikaSandaru
+---
 
-💬 Ask me about java
+## 🚀 Tech Stack
 
-📫 How to reach me chamikasandaru2021@gmail.com
+- **Frontend**: JavaScript, React.js, Vue.js, HTML, CSS, Bootstrap, Tailwind
+- **Backend**: Node.js, PHP, Java, Firebase, MySQL
+- **Mobile**: Flutter
+- **CMS**: WordPress
+- **Tools**: Git, GitHub, Figma, Postman
 
-⚡ Fun fact I am funny
-<!---
-chamikaSandaru/chamikaSandaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+
+📂 Full Portfolio: [portfolio-c7993.web.app](https://portfolio-c7993.web.app/)
+
+---
+
+## 🎯 Goals
+
+- ✨ Keep learning and growing in web & mobile development  
+- ☁️ Earn certifications in cloud technologies  
+- 💬 Collaborate on impactful open-source projects  
+
+---
+
+## 📬 Connect with Me
+
+- 🌐 [Portfolio](https://portfolio-c7993.web.app/)
+- 📧 Email: chamikasandaru2021@gmail.com
+
+Thanks for visiting my profile! 🚀

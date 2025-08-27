@@ -7,7 +7,8 @@ I'm a passionate **Software Developer** with experience in both frontend and bac
 ## 🚀 Tech Stack
 
 - **Frontend**: JavaScript, React.js, Vue.js, HTML, CSS, Bootstrap, Tailwind
-- **Backend**: Node.js, PHP, Java, Firebase, MySQL
+- **Backend**: Node.js, PHP, Java, MySQL
+- **Database**:firebase,MongoDB
 - **Mobile**: Flutter
 - **CMS**: WordPress
 - **Tools**: Git, GitHub, Figma, Postman
